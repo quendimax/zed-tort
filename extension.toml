@@ -4,8 +4,8 @@ description = "TORT grammar support"
 version = "0.0.1"
 schema_version = 1
 authors = ["Maksim Tomkavich <quendimax@gmail.com>"]
-repository = "https://github.com/quendimax/tree-sitter-tort"
+repository = "https://github.com/quendimax/zed-tort"
 
 [grammars.tort]
 repository = "https://github.com/quendimax/tree-sitter-tort"
-commit = "bd8845641cd00fcf73d01b34acb42587e9334f89"
+commit = "b0009c2264870c3e4f796405edd88c05d8297cb1"
