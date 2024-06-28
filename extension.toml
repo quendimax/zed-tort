@@ -1,0 +1,11 @@
+id = "tort"
+name = "TORT Grammar"
+description = "TORT grammar support"
+version = "0.0.1"
+schema_version = 1
+authors = ["Maksim Tomkavich <quendimax@gmail.com>"]
+repository = "https://github.com/quendimax/tree-sitter-tort"
+
+[grammars.tort]
+repository = "https://github.com/quendimax/tree-sitter-tort"
+commit = "bd8845641cd00fcf73d01b34acb42587e9334f89"
